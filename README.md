@@ -3,6 +3,6 @@
 ## Меня зовут Евгений Теплов, я Android-Разработчик
 
 ### Languages and tools
-[Kotlin](https://img.shields.io/badge/-Kotlin-121011?style=for-the-badge&logo=Kotlin)
+![Kotlin](https://img.shields.io/badge/-Kotlin-121011?style=for-the-badge&logo=Kotlin)
 
 Follow me
