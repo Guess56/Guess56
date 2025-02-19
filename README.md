@@ -4,5 +4,6 @@
 
 ### Languages and tools
 ![Kotlin](https://img.shields.io/badge/-Kotlin-121011?style=for-the-badge&logo=Kotlin)
+![Java](https://img.shields.io/badge/-Java-121011?style=for-the-badge&logo=Java)
 
 Follow me
