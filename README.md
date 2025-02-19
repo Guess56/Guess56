@@ -7,5 +7,5 @@
 ![Java](https://img.shields.io/badge/-Java-121011?style=for-the-badge&logo=Java&logoColor=f16609)
 
 ### Follow me
-![Vkontakte](https://img.shields.io/badge/-Vkontakte-121011?style=for-the-badge&logo=Vkontakte&logoColor=0972f1)
+![Vkontakte](https://img.shields.io/badge/-Vkontakte-121011?style=for-the-badge&logo=VK&logoColor=0972f1)
 ![Telegram](https://img.shields.io/badge/-Telegram-121011?style=for-the-badge&logo=Telegram)
