@@ -12,4 +12,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guess56&show_icons=true&theme=dark)](https://github.com/guess56/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guess56&hide_progress=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guess56&hide_progress=false&theme=dark)
