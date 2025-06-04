@@ -16,6 +16,9 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-121011?style=for-the-badge&logo=VK&logoColor=0972f1)](https://vk.com/guess56)
 [![Telegram](https://img.shields.io/badge/-Telegram-121011?style=for-the-badge&logo=Telegram)](https://t.me/EvgeniyTeplov)
 
+### Recommendation letters 
+https://github.com/Guess56/recommendation-letters
+
 ### Моя статистика на GitHub
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guess56&show_icons=true&theme=dark)](https://github.com/guess56/github-readme-stats)
 
